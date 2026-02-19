@@ -291,18 +291,6 @@ src/
 
 ---
 
-## 📸 Captures d'Écran
-
-### Menu Principal
-Interface d'accueil avec navigation vers les 4 modules principaux.
-
-### Gestion des Commandes
-Création de commandes avec calcul automatique du total et export CSV.
-
-### Gestion des Factures
-Recherche avancée et export de factures détaillées.
-
----
 
 ## 🎯 Améliorations Futures
 
@@ -319,7 +307,7 @@ Recherche avancée et export de factures détaillées.
 ## 👨‍💻 Auteur
 
 **TAHIRI Abdelilah**  
-EST BM - Mini Projet Java
+
 
 ---
 
